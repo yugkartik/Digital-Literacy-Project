@@ -1,1 +1,19 @@
+Cybercrime Case Study: UPI Fraud
 
+UPI fraud is one of the most common cybercrimes in India. It occurs when fraudsters trick users into transferring money through fake payment requests, phishing links, or fraudulent calls. Victims are often contacted by scammers pretending to be bank officials or customer support agents. They convince users to share sensitive details like OTPs, PINs, or ask them to approve payment requests.
+
+In many cases, users unknowingly approve "collect requests" on UPI apps, which results in money being debited instead of received. Fraudsters may also send fake links that look like official banking websites to steal login credentials.
+
+This type of cybercrime is increasing due to lack of awareness and careless sharing of personal information.
+
+Prevention Tips:
+1. Never share OTP, PIN, or passwords with anyone.
+2. Do not approve unknown payment requests.
+3. Always verify the sender before making payments.
+4. Use only official and trusted apps.
+5. Enable app security features like fingerprint or PIN.
+6. Avoid clicking on suspicious links.
+7. Regularly check bank statements.
+8. Report suspicious activity immediately.
+
+If you become a victim, report the fraud immediately at cybercrime.gov.in or call the helpline number 1930.
